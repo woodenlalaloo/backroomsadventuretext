@@ -30,7 +30,7 @@ public class death {
       System.exit(0);
     }
     else {
-      System.out.println("**** you.");
+      System.out.println("f**k you.");
       System.exit(0);
     }
     }

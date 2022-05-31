@@ -7,7 +7,7 @@ hidden = ["**/*.class"]
 [packager]
 language = "java"
 
-[packager.features]
+[packager.featuress]
 packageSearch = true
 
 [languages.java]
